@@ -1,29 +1,44 @@
-body  {background-color:grey;}
-
-<<<<<<< HEAD
-blue {color:blue;}
-=======
-#blue {color:blue;}
-
-#red {color:red;}
-
-#purple {color:purple;}
-
-#green {color:green;}
-
-#orange {color:orange;}
-
-#pink {color:pink;}
-
-#opg0 {
-background-color:white;
-border: thin solid #ffa500;}
-
-
-#opg1 {
-background-color:yellow;
-border: solid;
-}
-#java{
-background-color:pink;} 
->>>>>>> LAB1
+	body {
+		padding-left: 11em; /* plasserer "body" elementene der skal være, med mindre elementet har en egen command */
+		font-family: Georgia, "Times New Roman", /*Linjen og neste, angri hvile språk browsere skal vise teksten i*/ 
+				Times, serif; 
+		color: purple; /*Farge på tekst*/
+		background-color: #d7da3d } /*farge på bakgrunnen*/
+	
+	
+	ul.navbar {
+		list-style-type: none; /*Viser hva slags "stil" markeringene for hvert punkt på lista skal ha. */
+		padding: 1em;  /*Posisjonering av lista på skjermen ifh til content,margin,padding og border.*/
+		margin: 0;
+		position: absolute;
+		top: 2em;
+		left: 1em;
+		 }
+	
+	h2{
+    font-family: Helvetica, Geneva, Arial, /* Tesktvalg på h2 overskriftene */
+          SunSans-Regular, sans-serif }
+		  
+		  
+	ul.navbar li {
+		background: white;
+		margin: 0.5em;
+		padding: 0.3em;
+		border: 0.2em dotted; } /*Setter "inngjerding" rundt alternativene i listen. */
+	
+	u1.navbar a {
+		text-decoration: none } 
+	
+	
+	a:link {
+		colore: blue}
+	
+	
+	a:visited {
+		color: red}
+	
+	
+	address {
+		margin-top: 2em;			/* posisjonering av copyrightteksten i bunn */
+		padding-top: 1em;
+		border-top: thin dotted } /* Prikkete skillelinje mellom tekstene. */
