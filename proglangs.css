@@ -1,0 +1,29 @@
+body  {background-color:grey;}
+
+<<<<<<< HEAD
+blue {color:blue;}
+=======
+#blue {color:blue;}
+
+#red {color:red;}
+
+#purple {color:purple;}
+
+#green {color:green;}
+
+#orange {color:orange;}
+
+#pink {color:pink;}
+
+#opg0 {
+background-color:white;
+border: thin solid #ffa500;}
+
+
+#opg1 {
+background-color:yellow;
+border: solid;
+}
+#java{
+background-color:pink;} 
+>>>>>>> LAB1
