@@ -1,0 +1,28 @@
+- 0)Stor sannsynlighet for at koden fungerer til de mest kjente nettleserne, i motsetning til hva som kan skje om man skriver rå javascript.
+Til motsetning vil man gjennom å skrive en rå script bruke mye tid på noe du kan få satt sammen "gratis".
+
+
+- 1) 
+HTML/CSS:
+ - HTML's robuste tekststøtte
+ - Tekst med flerformet stil
+ - Tekst med dynamisk stil
+ - Mest mulig meningsfull informasjon til søkemotorer
+ - Tilgjengelighet: Strukturert HTML-oppmerking gjør det mulig for skjermleserverktøy å forstå forskjellen mellom en header, footer, list, etc.
+ - Enheter og nettlesere: Stor variasjon av tilgjengelige input-typer som email, nettsider, telefonnummer, dato, etc.
+
+Canvas:
+ - Grafisk ytelse: Grafiske oppgaver vil yte raskere i canvas.
+ - Konsistente kryssenheter
+ 
+ Canvas vil være nyttig å bruke der hvor man skal opprette data som er avhengig av grafisk ytelse.
+ Canvas funker til å lage spill som et eksempel.
+ 
+ 
+ - 2) Canvas bruker det vi kaller Rastegrafikk.
+Som definerer fargen for hver enkelt pixel man har på skjermen.
+
+
+
+X) Det har gått en 5-6 timer totalt, men det har ikke bestått av effektiv jobbing. Men mye synsing mellom forskjellige oppgaver fram og tilbake.
+Jeg har hatt diskusjoner med diverse mennesker, men fikk noen små hint fra Nicolai og Sigve, da jeg leste oppgaven feil og låste meg helt.
